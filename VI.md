@@ -3,10 +3,8 @@
 ## Window 1
 
 * [Blue HotSpot](http://www.islam.com/status)
-* [Support – Session Buddy](https://sessionbuddy.com/support/)
 * [upload/VI.md at master · ahmedhosna95/upload](https://github.com/ahmedhosna95/upload/blob/master/VI.md)
-* [Search everything on SoundCloud](https://soundcloud.com/search?q=%D8%A7%D8%B9%D9%84%D8%A7%D9%86%20%D8%B2%D9%8A%D9%86%202018)
-* [New Tab](chrome://newtab/)
+* [إعلان زين رمضان 2018 | Zain Ramadan 2018 Commercial | سيدي الرئيس by مُحمد أحمد لُبد](https://soundcloud.com/search?q=%D8%A7%D8%B9%D9%84%D8%A7%D9%86%20%D8%B2%D9%8A%D9%86%202018)
 
 # Previous Session 1 [Tuesday, October 2, 2018 8:28 AM]
 
