@@ -619,8 +619,6 @@
 * [اللعبة الطويلة](https://blog.ahmedhosna.com/search?updated-max=2018-04-20T05%3A18%3A00%2B02%3A00&max-results=3#PageNo=4)
 * [أول مرة](http://www.alukah.net/sharia/0/83266/#_=_)
 * [سونيتات شكسبير- قصص الناس في نيويورك 1 – shadow](https://shadow9blog.wordpress.com/2016/02/15/%d8%b3%d9%88%d9%86%d9%8a%d8%aa%d8%a7%d8%aa-%d8%b4%d9%83%d8%b3%d8%a8%d9%8a%d8%b1-%d9%82%d8%b5%d8%b5-%d8%a7%d9%84%d9%86%d8%a7%d8%b3-%d9%81%d9%8a-%d9%86%d9%8a%d9%88%d9%8a%d9%88%d8%b1%d9%83-1/)
-* [هل الزواج يساعد ع ترك العادة اقصد اذا كنت بمارس العادة لكن لست مدمنها اذا تزوجت هبطلها خالص؟ | ask.fm/abokhattabb2](https://ask.fm/abokhattabb2/threads/150196419355)
-* [Bara'a Faruq](https://www.facebook.com/braa.faruq)
 * [Thoughts On My Bike - YouTube](https://www.youtube.com/watch?v=MDqUKj1GwJY)
 * [kazamiza.com](http://kazamiza.com/vb)
 
