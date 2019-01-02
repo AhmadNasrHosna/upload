@@ -1,0 +1,30 @@
+@font-face {
+    font-family: 'Alessa Beilaire Deluxe';
+    src: url('AlessaBeilaireDeluxe-Regular.woff2') format('woff2'),
+        url('AlessaBeilaireDeluxe-Regular.woff') format('woff'),
+        url('AlessaBeilaireDeluxe-Regular.ttf') format('truetype'),
+        url('AlessaBeilaireDeluxe-Regular.svg#AlessaBeilaireDeluxe-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Alessa Beilaire Deluxe Mini';
+    src: url('AlessaBeilaireDeluxeMini.woff2') format('woff2'),
+        url('AlessaBeilaireDeluxeMini.woff') format('woff'),
+        url('AlessaBeilaireDeluxeMini.ttf') format('truetype'),
+        url('AlessaBeilaireDeluxeMini.svg#AlessaBeilaireDeluxeMini') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Alessa Beilaire Deluxe';
+    src: url('AlessaBeilaireDeluxeItalic-Regu.woff2') format('woff2'),
+        url('AlessaBeilaireDeluxeItalic-Regu.woff') format('woff'),
+        url('AlessaBeilaireDeluxeItalic-Regu.ttf') format('truetype'),
+        url('AlessaBeilaireDeluxeItalic-Regu.svg#AlessaBeilaireDeluxeItalic-Regu') format('svg');
+    font-weight: normal;
+    font-style: italic;
+}
+
