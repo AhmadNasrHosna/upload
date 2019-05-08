@@ -4,7 +4,7 @@ jQuery(document)['ready'](function() {
         function _0xcabbx2() {
             jQuery('#sidebar-sticky')['stick_in_parent']({
                     parent: '#wrapper',
-                    offset_top: 70
+                    offset_top: 93
                 }
             )
         }
